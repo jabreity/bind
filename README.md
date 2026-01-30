@@ -1,2 +1,2 @@
-# bind
-# bind
+# Bind
+A Vagrant/Puppet way to produce a Bind server in Ubuntu. Should work equally well for Enterprise Linux (CentOS) and other builds. 100 lines less code than that which was presented. Easily followed, and livestreamed. Done in realtime, without any camera tricks. Similar to jazz, eitehr you've got it or you need to practice more.
